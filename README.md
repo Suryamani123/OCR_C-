@@ -23,7 +23,7 @@ $ ./opencv_latest.sh
 ```
 come out of the openCV directory(back to the OCR_Cpp directory)  
 
-3.Run the cpp file with flags and options as below:
+3.Run the following command with flags and options to make an executable of the ocr.cpp file as below:
  ```
 $ g++ -O3 -std=c++11 ocr.cpp `pkg-config --cflags --libs tesseract opencv` -o ocr
 ```
