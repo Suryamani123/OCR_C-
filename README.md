@@ -12,7 +12,7 @@ sudo apt install libtesseract-dev
 ```
 2.# For OpenCV follow these steps:
 
-cd to main project directory "i.e OCR_IN_C++"
+cd to main project directory "i.e OCR_Cpp"
 
 Then perform following steps:
 ```
@@ -21,7 +21,7 @@ $ cd Ubuntu
 $ chmod +x * 
 $ ./opencv_latest.sh
 ```
-come out of the openCV directory(back to the OCR_IN_C++ directory)  
+come out of the openCV directory(back to the OCR_Cpp directory)  
 
 3.Run the cpp file with flags and options as below:
  ```
